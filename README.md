@@ -1,4 +1,5 @@
 # User Guide for NyanBot
+<img align="right" width="400" src="https://github.com/blackmirag3/NyanBot/assets/78994143/4e1b51ff-165c-4b3b-934b-301e1c2e1800">
 
 > NyanBot is a CLI chatbot programme for task management. By default, it stores the user's tasks in **./data/nyan.txt** in the **same directory as the jar file**.
 
